@@ -12,4 +12,6 @@ else:
        print("b is largest",b)
     else:
        print("c is largest",c)
+    
+    print("Happy coding")
  
