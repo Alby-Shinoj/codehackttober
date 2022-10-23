@@ -17,4 +17,4 @@ elif a==7:
   print("Saturday")
   
 else:
-    print("INPUT ERROR")
+    print("Error 404")
